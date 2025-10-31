@@ -1,0 +1,38 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#006400",
+            "colorlight": "#8B00FF",
+            "description": "boost exp",
+            "displaypriority": 1,
+            "enddate": 1739674800,
+            "isseasonal": false,
+            "name": "boost exp",
+            "specialevent": 0,
+            "startdate": 1739502000
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#00FF00",
+            "description": "Double skill",
+            "displaypriority": 1,
+            "enddate": 1729998000,
+            "isseasonal": false,
+            "name": "Double skill",
+            "specialevent": 0,
+            "startdate": 1729825200
+        },
+        {
+            "colordark": "#0000FF",
+            "colorlight": "#8B00FF",
+            "description": "Double Exp",
+            "displaypriority": 1,
+            "enddate": 1730602800,
+            "isseasonal": false,
+            "name": "Double Exp",
+            "specialevent": 0,
+            "startdate": 1730430000
+        }
+    ],
+    "lastupdatetimestamp": 1740664926
+}
